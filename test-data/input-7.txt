@@ -1,0 +1,4 @@
+# ALL módban mindkét tároló tüzelése sikertelen
+GT4500,1,1000,1,1000
+TORPEDO,ALL
+TORPEDO,ALL
