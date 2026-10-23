@@ -1,0 +1,3 @@
+# Üres elsődleges tároló esetén a másodlagos tüzel
+GT4500,0,0,1,0
+TORPEDO,SINGLE

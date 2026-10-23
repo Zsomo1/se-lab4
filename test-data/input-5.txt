@@ -1,0 +1,4 @@
+# ALL módban csak az elsődleges tároló tüzel sikeresen
+GT4500,1,0,1,100
+TORPEDO,ALL
+TORPEDO,ALL

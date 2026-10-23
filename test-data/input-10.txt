@@ -1,0 +1,3 @@
+# 0.001 hibaarány single modban
+GT4500,10,0.001,10,0.001
+TORPEDO,SINGLE
